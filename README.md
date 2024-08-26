@@ -8,7 +8,11 @@ kicad design files for a general purpose midi dev board
 * socket for micro-SD card
 * status LED
 * SWD connection for programming
-* PJ-320A connector for 2 foot-switches   
+* PJ-320A connector for 2 foot-switches
+* 5V POWER via USB
+* 3V3 regulator
+* 4-pin socket for neopixel strip D0
+* Status LED D3   
 
 ## sources / credits:
   * schematics and pcb design based on [MKRZERO Arduino](https://docs.arduino.cc/hardware/mkr-zero/)   
