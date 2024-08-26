@@ -1,4 +1,4 @@
-23834768951644726
+23838218669631602
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2544,6 +2544,20 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
+0
+2
+2
+CR12202
+CR12202
+CR1220-2-3
+Integrated Circuit
+0
+2
+2
+CR12202
+CR12202-pin-names-plus-minus
+CR1220-2-3
+Integrated Circuit
 0
 2
 2
@@ -64768,8 +64782,8 @@ CR1220-2 Q&J
 
 
 0
-2
-2
+4
+4
 MKRZero_V5.0
 CRYSTAL_8X3.8
 8.0x3.8x2.5mm SMT Crystal{return}{return}Source: http://www.abracon.com/Resonators/abs25.pdf
