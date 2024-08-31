@@ -16923,26 +16923,6 @@
 		(layer "F.SilkS")
 		(uuid "e88df28e-7db4-4950-ae61-9fffb3d93a8f")
 	)
-	(gr_line
-		(start 53.333 0)
-		(end 53.333 100)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "6d58e68a-6da4-4fee-b625-3b006c0dfd06")
-	)
-	(gr_line
-		(start 26.666 0)
-		(end 26.666 100)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Dwgs.User")
-		(uuid "da865426-7aba-4c16-8a29-3411fbdc285a")
-	)
 	(gr_arc
 		(start 80 59)
 		(mid 79.707107 59.707107)
@@ -17245,7 +17225,7 @@
 		)
 	)
 	(gr_text "pin 1"
-		(at 52.2 24.9 0)
+		(at 48.454 30.712 90)
 		(layer "F.SilkS")
 		(uuid "2c972450-e1fd-4ee4-adfe-86825efe7de2")
 		(effects

@@ -25,8 +25,3 @@ kicad design files for a general purpose midi dev board
 ## images
 ![front](docs/top.png)
 ![bottom](docs/bottom.png)
-![back](docs/back.png)
-![top perspective](docs/top-p.png)
-![bottom perspective](docs/bottom-p.png)
-![schematic 1](docs/schematic1.png)
-![schematic 2](docs/schematic2.png)
