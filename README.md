@@ -1,3 +1,5 @@
+![top left](docs/top-left.JPG)
+
 # samd21g-midi-tool
 kicad design files for a general purpose midi dev board
 
