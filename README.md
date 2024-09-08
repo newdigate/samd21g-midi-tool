@@ -1,5 +1,3 @@
-![top left](docs/top-left.JPG)
-
 # samd21g-midi-tool
 [kicad](https://www.kicad.org/) design files for a general purpose midi dev board
 
@@ -15,6 +13,8 @@
 * 3V3 regulator
 * 4-pin socket for neopixel strip
 * Status LED
+
+<img src="docs/top-left.JPG" alt="drawing" width="400"/>
 
 ## Kicad plugins
  * [JLCPCB](https://github.com/Bouni/kicad-jlcpcb-tools)
