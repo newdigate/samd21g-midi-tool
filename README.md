@@ -4,7 +4,7 @@
 * samdg21 arm cortex m0 microcontroller
 * DIN-5 midi input and output
 * st7735 display (128x128 16bit)
-* realtime clock RTC
+* [PCF8523T](https://www.nxp.com/part/PCF8523T) realtime clock RTC
 * socket for micro-SD card
 * status LED
 * SWD connection for programming
