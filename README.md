@@ -1,5 +1,5 @@
 # samd21g-midi-tool
-[kicad](https://www.kicad.org/) design files for a general purpose midi dev board
+[kicad](https://www.kicad.org/) design files for a general purpose midi dev board based on Arduino MKRZero 
 
 * samdg21 arm cortex m0 microcontroller
 * DIN-5 midi input and output
