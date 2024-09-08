@@ -20,6 +20,11 @@
  * [JLCPCB](https://github.com/Bouni/kicad-jlcpcb-tools)
  * [Freerouting](https://github.com/freerouting/freerouting)
 
+## Arduino libraries
+* [PCF8523](https://github.com/SpellFoundry/PCF8523)
+* [Adafruit-ST7735-Library](https://github.com/adafruit/Adafruit-ST7735-Library)
+* [arduino_midi_library](https://github.com/FortySevenEffects/arduino_midi_library)
+
 ## sources / credits:
   * schematics and pcb design based on [MKRZERO Arduino](https://docs.arduino.cc/hardware/mkr-zero/)   
   * 3d models:
