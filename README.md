@@ -27,3 +27,5 @@ kicad design files for a general purpose midi dev board
 ## images
 ![front](docs/top.png)
 ![bottom](docs/bottom.png)
+![tech-assembly](docs/tech-assembly.png)
+![tech-assembly-with-enclosure](docs/tech-assembly-with-enclosure.png)
