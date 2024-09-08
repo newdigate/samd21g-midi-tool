@@ -1,7 +1,7 @@
 ![top left](docs/top-left.JPG)
 
 # samd21g-midi-tool
-kicad design files for a general purpose midi dev board
+[kicad](https://www.kicad.org/) design files for a general purpose midi dev board
 
 * samdg21 arm cortex m0 microcontroller
 * DIN-5 midi input and output
@@ -15,6 +15,10 @@ kicad design files for a general purpose midi dev board
 * 3V3 regulator
 * 4-pin socket for neopixel strip
 * Status LED
+
+## Kicad plugins
+ * [JLCPCB](https://github.com/Bouni/kicad-jlcpcb-tools)
+ * [Freerouting](https://github.com/freerouting/freerouting)
 
 ## sources / credits:
   * schematics and pcb design based on [MKRZERO Arduino](https://docs.arduino.cc/hardware/mkr-zero/)   
