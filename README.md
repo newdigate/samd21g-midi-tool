@@ -29,7 +29,9 @@
     * [PJ-320A](https://github.com/nathanhborger/PJ-320A_KiCad_Library)
 
 ## images
-![front](docs/top.png)
-![bottom](docs/bottom.png)
+<img src="docs/top.png" alt="drawing" width="400"/>
+<img src="docs/bottom.png" alt="drawing" width="400"/>
+
 ![tech-assembly](docs/tech-assembly.png)
+
 ![tech-assembly-with-enclosure](docs/tech-assembly-with-enclosure.png)
