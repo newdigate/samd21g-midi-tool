@@ -1,4 +1,4 @@
-23838218670510602
+23839945230207412
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64796,7 +64796,7 @@ Deltron-671-0501-5
 
 
 0
-7
+9
 7
 MKRZero_V5.0
 FIDUCIAL-MOUNT
@@ -64833,6 +64833,13 @@ LEDC1608X80N-AK
 0
 2
 2
+MKRZero_V5.0
+MG03254F-RA
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
 MKRZero_V5.0
 MH_RND_F_2.2MM_NM
 

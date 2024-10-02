@@ -1233,7 +1233,7 @@
 				)
 			)
 		)
-		(symbol "Connector:Conn_01x04_Pin"
+		(symbol "Connector:Conn_01x03_Pin"
 			(pin_names
 				(offset 1.016) hide)
 			(exclude_from_sim no)
@@ -1247,8 +1247,8 @@
 					)
 				)
 			)
-			(property "Value" "Conn_01x04_Pin"
-				(at 0 -7.62 0)
+			(property "Value" "Conn_01x03_Pin"
+				(at 0 -5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1273,7 +1273,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x04, script generated"
+			(property "Description" "Generic connector, single row, 01x03, script generated"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1308,19 +1308,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "Conn_01x04_Pin_1_1"
-				(polyline
-					(pts
-						(xy 1.27 -5.08) (xy 0.8636 -5.08)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
+			(symbol "Conn_01x03_Pin_1_1"
 				(polyline
 					(pts
 						(xy 1.27 -2.54) (xy 0.8636 -2.54)
@@ -1355,17 +1343,6 @@
 					)
 					(fill
 						(type none)
-					)
-				)
-				(rectangle
-					(start 0.8636 -4.953)
-					(end 0 -5.207)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
 					)
 				)
 				(rectangle
@@ -1448,24 +1425,6 @@
 						)
 					)
 					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -5.08 180)
-					(length 3.81)
-					(name "Pin_4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8473,7 +8432,7 @@
 		(uuid "05631934-3657-45cb-8142-6be82e3943bd")
 	)
 	(no_connect
-		(at 250.19 172.72)
+		(at 250.19 162.56)
 		(uuid "0880c7aa-381e-4f46-bff5-38ef5318cdc4")
 	)
 	(no_connect
@@ -8529,7 +8488,7 @@
 		(uuid "3ebecb93-0ee8-4a76-b118-38fe8dfffe53")
 	)
 	(no_connect
-		(at 242.57 162.56)
+		(at 242.57 172.72)
 		(uuid "3f419b39-59e9-49bb-91da-08a1102d5752")
 	)
 	(no_connect
@@ -8557,10 +8516,6 @@
 		(uuid "4da51537-1673-4a7c-94b3-649357145e78")
 	)
 	(no_connect
-		(at 54.61 20.32)
-		(uuid "4f358b86-d8ed-4eb5-aa09-b783212db742")
-	)
-	(no_connect
 		(at 128.27 212.09)
 		(uuid "554b00e7-2c81-4a33-886e-098e62df3dd4")
 	)
@@ -8573,7 +8528,7 @@
 		(uuid "5be8ce7e-575b-40b8-992e-e31907c12e42")
 	)
 	(no_connect
-		(at 234.95 172.72)
+		(at 234.95 162.56)
 		(uuid "5f762ba0-d458-4d67-9d0f-e693346164c2")
 	)
 	(no_connect
@@ -8653,7 +8608,7 @@
 		(uuid "a556cf09-87da-4fc9-ac17-6a632c26793e")
 	)
 	(no_connect
-		(at 236.22 147.32)
+		(at 236.22 138.43)
 		(uuid "b5a6e037-7817-43d8-9af5-8f2c437e55b9")
 	)
 	(no_connect
@@ -8685,7 +8640,7 @@
 		(uuid "e15f0f04-4a02-4ecf-b9ea-4a013528f713")
 	)
 	(no_connect
-		(at 228.6 137.16)
+		(at 220.98 138.43)
 		(uuid "e25b1a09-84f2-450e-8c15-5f40a52ceac0")
 	)
 	(no_connect
@@ -8693,7 +8648,7 @@
 		(uuid "e4c47585-39db-4b23-9e13-11d3a1ec79f2")
 	)
 	(no_connect
-		(at 220.98 147.32)
+		(at 228.6 148.59)
 		(uuid "e7871914-fcbd-42d0-9790-0f4b61ce48e6")
 	)
 	(no_connect
@@ -8898,7 +8853,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 142.24) (xy 238.76 142.24)
+			(xy 236.22 143.51) (xy 238.76 143.51)
 		)
 		(stroke
 			(width 0)
@@ -10398,7 +10353,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 142.24) (xy 220.98 142.24)
+			(xy 218.44 143.51) (xy 220.98 143.51)
 		)
 		(stroke
 			(width 0)
@@ -10638,7 +10593,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 151.13) (xy 218.44 142.24)
+			(xy 218.44 151.13) (xy 218.44 143.51)
 		)
 		(stroke
 			(width 0)
@@ -10885,16 +10840,6 @@
 			(type solid)
 		)
 		(uuid "ea419557-4775-4685-9797-2f00538f5e18")
-	)
-	(wire
-		(pts
-			(xy 238.76 142.24) (xy 238.76 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec3b181e-416c-4a78-80c1-447ab3b2c464")
 	)
 	(wire
 		(pts
@@ -13567,8 +13512,79 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x03_Pin")
+		(at 49.53 17.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "254d7164-ce76-4aeb-b22d-9be977cdaa0d")
+		(property "Reference" "J7"
+			(at 50.165 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x03_Pin"
+			(at 50.165 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MKRZero_V5.0:MG03254F-RA"
+			(at 49.53 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.53 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated"
+			(at 49.53 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "34db1f23-69af-4604-9f23-c4fafe392825")
+		)
+		(pin "1"
+			(uuid "88cbc2b2-45be-4c2f-9e3f-5b4c9c6b55a9")
+		)
+		(pin "2"
+			(uuid "69340eac-4c17-4749-bd40-39351eb67f12")
+		)
+		(instances
+			(project ""
+				(path "/d69da2de-79eb-4848-90e3-5c89e1fd8e2f"
+					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 54.61 22.86 0)
+		(at 54.61 20.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13577,7 +13593,7 @@
 		(fields_autoplaced yes)
 		(uuid "25b2c0e3-2656-4d1a-8537-0023390ea001")
 		(property "Reference" "#PWR08"
-			(at 54.61 29.21 0)
+			(at 54.61 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13586,7 +13602,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 54.61 27.94 0)
+			(at 54.61 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13594,7 +13610,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 22.86 0)
+			(at 54.61 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13603,7 +13619,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 22.86 0)
+			(at 54.61 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13612,7 +13628,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 22.86 0)
+			(at 54.61 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13635,7 +13651,7 @@
 	(symbol
 		(lib_name "DIN-5_1")
 		(lib_id "Connector:DIN-5")
-		(at 242.57 170.18 0)
+		(at 242.57 165.1 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13644,7 +13660,7 @@
 		(fields_autoplaced yes)
 		(uuid "2602c753-5809-4430-a043-1429634debaa")
 		(property "Reference" "JMIDIOUT1"
-			(at 242.5701 177.8 0)
+			(at 242.5699 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13652,7 +13668,7 @@
 			)
 		)
 		(property "Value" "DIN-5"
-			(at 242.5701 180.34 0)
+			(at 242.5699 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13660,7 +13676,7 @@
 			)
 		)
 		(property "Footprint" "MKRZero_V5.0:Deltron-671-0501-5"
-			(at 242.57 170.18 0)
+			(at 242.57 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13669,7 +13685,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf"
-			(at 242.57 170.18 0)
+			(at 242.57 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13678,7 +13694,7 @@
 			)
 		)
 		(property "Description" "5-pin DIN connector"
-			(at 242.57 170.18 0)
+			(at 242.57 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13687,7 +13703,7 @@
 			)
 		)
 		(property "LCSC" "C20611696"
-			(at 242.5701 177.8 0)
+			(at 242.5699 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14909,89 +14925,6 @@
 			(project "MKRZero_V5.0"
 				(path "/d69da2de-79eb-4848-90e3-5c89e1fd8e2f"
 					(reference "#+3V08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x04_Pin")
-		(at 49.53 17.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4dc472a3-6374-460a-a773-de7a7822151d")
-		(property "Reference" "J7"
-			(at 50.165 10.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x04_Pin"
-			(at 50.165 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
-			(at 49.53 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 49.53 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 49.53 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C462077"
-			(at 50.165 10.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2b538576-20a0-49b9-86a4-ef8034cb64af")
-		)
-		(pin "2"
-			(uuid "c68823cf-7076-4d2d-9522-69a7c5fe2049")
-		)
-		(pin "3"
-			(uuid "22303e74-0f43-4a8e-86bb-e00a5d2b60d5")
-		)
-		(pin "4"
-			(uuid "97208a9e-5989-42e5-968b-62ca01074564")
-		)
-		(instances
-			(project ""
-				(path "/d69da2de-79eb-4848-90e3-5c89e1fd8e2f"
-					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -19554,7 +19487,7 @@
 	(symbol
 		(lib_name "DIN-5_1")
 		(lib_id "Connector:DIN-5")
-		(at 228.6 144.78 0)
+		(at 228.6 140.97 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19563,7 +19496,7 @@
 		(fields_autoplaced yes)
 		(uuid "c85ac1c3-964a-4321-ac40-53a063eafe60")
 		(property "Reference" "JMIDIIN1"
-			(at 228.6001 152.4 0)
+			(at 228.5999 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19571,7 +19504,7 @@
 			)
 		)
 		(property "Value" "DIN-5"
-			(at 228.6001 154.94 0)
+			(at 228.5999 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19579,7 +19512,7 @@
 			)
 		)
 		(property "Footprint" "MKRZero_V5.0:Deltron-671-0501-5"
-			(at 228.6 144.78 0)
+			(at 228.6 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19588,7 +19521,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf"
-			(at 228.6 144.78 0)
+			(at 228.6 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19597,7 +19530,7 @@
 			)
 		)
 		(property "Description" "5-pin DIN connector"
-			(at 228.6 144.78 0)
+			(at 228.6 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19606,7 +19539,7 @@
 			)
 		)
 		(property "LCSC" "C20611696"
-			(at 228.6001 152.4 0)
+			(at 228.5999 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
