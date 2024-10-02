@@ -1,10 +1,10 @@
-# samd21g-midi-tool
-kicad design files for a general purpose midi dev board
+# Midi Tool
+[kicad](https://www.kicad.org/) design files for a general purpose midi dev board based on Arduino MKRZero 
 
-* samdg21 arm cortex m0 microcontroller
+* [samdg21](https://www.microchip.com/en-us/product/atsamd21g18) arm cortex m0 microcontroller
 * DIN-5 midi input and output
 * st7735 display (128x128 16bit)
-* realtime clock RTC
+* [PCF8523T](https://www.nxp.com/part/PCF8523T) realtime clock RTC
 * socket for micro-SD card
 * status LED
 * SWD connection for programming
@@ -13,6 +13,17 @@ kicad design files for a general purpose midi dev board
 * 3V3 regulator
 * 4-pin socket for neopixel strip
 * Status LED
+
+<img src="docs/top-left.JPG" alt="drawing" width="400"/>
+
+## Kicad plugins
+ * [JLCPCB](https://github.com/Bouni/kicad-jlcpcb-tools)
+ * [Freerouting](https://github.com/freerouting/freerouting)
+
+## Arduino libraries
+* [PCF8523](https://github.com/SpellFoundry/PCF8523)
+* [Adafruit-ST7735-Library](https://github.com/adafruit/Adafruit-ST7735-Library)
+* [arduino_midi_library](https://github.com/FortySevenEffects/arduino_midi_library)
 
 ## sources / credits:
   * schematics and pcb design based on [MKRZERO Arduino](https://docs.arduino.cc/hardware/mkr-zero/)   
@@ -23,5 +34,9 @@ kicad design files for a general purpose midi dev board
     * [PJ-320A](https://github.com/nathanhborger/PJ-320A_KiCad_Library)
 
 ## images
-![front](docs/top.png)
-![bottom](docs/bottom.png)
+<img src="docs/top.png" alt="drawing" width="400"/>
+<img src="docs/bottom.png" alt="drawing" width="400"/>
+
+![tech-assembly](docs/tech-assembly.png)
+
+![tech-assembly-with-enclosure](docs/tech-assembly-with-enclosure.png)
