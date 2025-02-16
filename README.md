@@ -16,6 +16,9 @@
 
 <img src="docs/top-left.JPG" alt="drawing" width="400"/>
 
+## Firmware
+ * [samd21g-midi-tool-software](https://github.com/newdigate/samd21g-midi-tool-software)
+   
 ## Kicad plugins
  * [JLCPCB](https://github.com/Bouni/kicad-jlcpcb-tools)
  * [Freerouting](https://github.com/freerouting/freerouting)
